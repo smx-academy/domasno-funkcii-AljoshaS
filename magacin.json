@@ -1,0 +1,12 @@
+{
+  "mleko": {
+    "kolichina vo magacin": 7,
+    "poedinechna cena": 15,
+    "vkupna cena": 105
+  },
+  "kashkaval": {
+    "kolichina vo magacin": 10,
+    "poedinechna cena": 75,
+    "vkupna cena": 750
+  }
+}
